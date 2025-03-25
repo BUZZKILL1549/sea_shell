@@ -1,0 +1,3 @@
+/home/buzzkill/Documents/Projects/c/sea_shell/build/CMakeFiles/seashell.dir
+/home/buzzkill/Documents/Projects/c/sea_shell/build/CMakeFiles/edit_cache.dir
+/home/buzzkill/Documents/Projects/c/sea_shell/build/CMakeFiles/rebuild_cache.dir

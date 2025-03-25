@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/seashell.dir/main.c.o CMakeFiles/seashell.dir/headers/sea_shell.c.o -o seashell 
